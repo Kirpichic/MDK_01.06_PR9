@@ -24,4 +24,6 @@ fdc3c748-e7e9-4513-9528-11edb12a184c
 {3,"BackgroundJob",3},
 {5,a3d545a5-1931-4e20-b73e-76f1ceefd6c7,"",2},
 {5,a3d545a5-1931-4e20-b73e-76f1ceefd6c7,"Справочник.Сотрудники",2},
-{4,"_$PerformError$_",12}
+{4,"_$PerformError$_",12},
+{5,aa7a8b8e-adc1-4cab-9bac-fb66fc5f072d,"Документ.ПриходнаяНаклодная",3},
+{4,"_$Data$_.Post",13}
